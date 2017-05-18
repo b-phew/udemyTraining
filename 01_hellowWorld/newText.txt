@@ -1,0 +1,1 @@
+Inside the new text file, the old one should be gone.
